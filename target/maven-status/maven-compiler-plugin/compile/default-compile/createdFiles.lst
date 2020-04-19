@@ -1,0 +1,9 @@
+com\mycompany\so\randomPick.class
+com\mycompany\so\PagingV2.class
+com\mycompany\so\LFU$Page.class
+com\mycompany\so\MFU$Page.class
+com\mycompany\so\MFU.class
+com\mycompany\so\LRU.class
+com\mycompany\so\LRU$Page.class
+com\mycompany\so\FIFO.class
+com\mycompany\so\LFU.class
